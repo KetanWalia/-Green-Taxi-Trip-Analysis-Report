@@ -1,4 +1,4 @@
-# -Green-Taxi-Trip-Analysis-Report
+# NYC Taxi Riders' Tipping Behavior Analysis
 Analyzed “Green” Taxi Trips &amp; Predicted tip percentage for a particular trip in New York City
 
 •	Programmatically sourced data of size 1.4mn rows from http://www.nyc.gov/html/tlc/html.Conducted Exploratory analysis & visualizations.
